@@ -1,0 +1,8 @@
+{
+  "name": "myProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c7d9458a"
+}
